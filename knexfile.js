@@ -1,4 +1,5 @@
-// Update with your config settings, dood.
+// Update with your config settings.
+require('dotenv').config();
 
 module.exports = {
 
